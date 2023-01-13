@@ -141,6 +141,9 @@ code {
   .form-main-logo {
     display: none;
   }
+  .form-box {
+    width: 100%;
+  }
   .form-main-container {
     height: 100%;
   }
