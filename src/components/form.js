@@ -74,7 +74,6 @@ export default function Form() {
       sizeValue;
     alert(data);
   };
-  console.log(companyName, industryValue, sizeValue, "check");
 
   return (
     <div>
